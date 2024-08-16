@@ -1,1 +1,1 @@
-# Lista-de-exerc-cios---JAVA
+# Lista-de-exercícios---JAVA
